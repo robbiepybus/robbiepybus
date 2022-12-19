@@ -22,7 +22,8 @@
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,mysql,cs,r,php,c,cpp,matlab,java)](https://skillicons.dev)
 
 ## Technologies
-[![My Skills](https://skillicons.dev/icons?i=vscode,unity,blender,pytorch,tensorflow,figma,selenium,nodejs,haskell,aws,linux,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,unity,blender,pytorch,tensorflow,figma,selenium,nodejs,haskell,aws,linux,git)](https://skillicons.dev)
+<!--- Missing PowerBI, Tableau, Excel --->
 
 ## Hobbies
 :soccer: Football <br />
